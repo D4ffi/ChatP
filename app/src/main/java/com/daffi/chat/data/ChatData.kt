@@ -6,6 +6,10 @@ import com.google.ai.client.generativeai.type.ResponseStoppedException
 import com.google.ai.client.generativeai.type.content
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
+/*
+Aqui se encuentra la apiKey y las funciones para obtener la respuesta del chat
+ */
+
 
 object ChatData {
 

@@ -58,6 +58,10 @@ import com.daffi.chat.ui.theme.Green
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.update
 
+/*
+Front end de la app, se encarga de mostrar la interfaz de usuario y de comunicar al usuario con el modelo
+ */
+
 class MainActivity : ComponentActivity() {
 
     private val uriState = MutableStateFlow("")

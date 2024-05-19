@@ -11,7 +11,7 @@ import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 
 /**
- * @author Ahmed Guedmioui
+ * ViewModel para el chat
  */
 class ChatViewModel : ViewModel() {
 
